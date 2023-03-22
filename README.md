@@ -6,7 +6,7 @@ My name is Ejim Favour and I'm a Frontend developer/solidity developer. I'm from
 # &#x1f4c8; GitHub Stats
 [![Ejim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejim11)](https://github.com/ejim11/github-readme-stats)
 <a href="https://github.com/ejim11/ejim11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejim11&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejim11&hide=html,scss,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 
