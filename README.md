@@ -1,7 +1,13 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/ejim11/ejim11/master/wave.gif" width="30px" height="30px" />
 My name is Ejim Favour and I'm a Frontend developer/solidity developer. I'm from Nigeria, living in Enugu and currently working at Transform Africa. You can find me on favourejim56@gmail.com
 
+
+
+# &#x1f4c8; GitHub Stats
 [![Ejim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejim11)](https://github.com/ejim11/github-readme-stats)
+<a href="https://github.com/ejim11/ejim11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejim11&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 
 ## 🔧 Technologies & Tools
