@@ -8,7 +8,10 @@ My name is Ejim Favour and I'm a Frontend developer/solidity developer. I'm from
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TailwindCss-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
+
 
 
 
@@ -20,13 +23,5 @@ My name is Ejim Favour and I'm a Frontend developer/solidity developer. I'm from
 
 
 
-- 😎 I'm a fullstack web3 developer
-- 🔭 I’m currently working on a web3 library and playground
-- 🌱 I’m currently learning solidity
-- 👯 I’m looking to collaborate on interesting projects on javascript, react js and solidity.
 
-
-- 📫 How to reach me: @favourejim56@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Apart from coding I enjoy sleeping a lot too
 
