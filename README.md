@@ -12,16 +12,16 @@ My name is Ejim Favour and I'm a Frontend developer/solidity developer. I'm from
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=0ff)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=fc006d)
-![](https://img.shields.io/badge/Code-Scss-informational?style=flat&logo=scss&logoColor=white&color=245953)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=D8D8D8)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=DF2E38)
-![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react.js&logoColor=white&color=5D9C59)
-![](https://img.shields.io/badge/Code-TailwindCss-informational?style=flat&logo=tailwind&logoColor=white&color=F48484)
-![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=next.js&logoColor=white&color=301E67)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=FFEA20)
-![](https://img.shields.io/badge/Code-Hardhat-informational?style=flat&logo=hardhat&logoColor=white&color=1C82AD)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Scss-informational?style=flat&logo=scss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TailwindCss-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Hardhat-informational?style=flat&logo=hardhat&logoColor=white&color=2bbc8a)
 
 
 
