@@ -1,5 +1,4 @@
-
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/ejim11/ejim11/master/wave.gif" width="30px" height="30px" />
 ### Hi there, I am Ejim 👋
 
 - 😎 I'm a fullstack web3 developer
