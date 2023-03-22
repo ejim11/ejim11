@@ -4,6 +4,11 @@ My name is Ejim Favour and I'm a Frontend developer/solidity developer. I'm from
 [![Ejim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejim11)](https://github.com/ejim11/github-readme-stats)
 
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+
+
 
 <!-- links to your social media accounts -->
 
