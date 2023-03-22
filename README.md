@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/ejim11/<OWNER>/<OWNER>/readme_header.png "Header")]([https://some-url.dev/](https://ejim-portfolio.vercel.app/))
+
 ### Hi there, I am Ejim 👋
 
 - 😎 I'm a fullstack web3 developer
