@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/ejim11/ejim11/master/wave.gif" width="30px" height="30px" />
-My name is Ejim Favour and I'm a Frontend developer/solidity developer. I'm from Nigeria, living in Enugu and currently working at Transform Africa. You can get to me through favourejim56@gmail.com
+My name is Ejim Favour and I'm a Frontend developer/solidity developer. I'm from Nigeria and currently working at Transform Africa. You can get to me through favourejim56@gmail.com
 
 
 
