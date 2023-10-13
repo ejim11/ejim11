@@ -1,5 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/ejim11/ejim11/master/wave.gif" width="30px" height="30px" />
-My name is Ejim Favour and I'm a Frontend developer/solidity developer. I'm from Nigeria and currently working at Transform Africa. You can get to me through favourejim56@gmail.com
+I am a software engineer with very good frontend experience in building  interactive and maintainable web applications.
+In addition to building user interfaces, I have a good understanding of how the blockchain works and can write smart contracts.
+I am good at providing solutions using  technology and also effectively communicating my knowledge and experience to colleagues in the field.
+I'm from Nigeria and currently working at Transform Africa. 
+You can get to me through favourejim56@gmail.com
 
 
 
