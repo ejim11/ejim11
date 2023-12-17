@@ -2,7 +2,7 @@
 I am a software engineer with very good frontend experience in building  interactive and maintainable web applications.
 In addition to building user interfaces, I have a good understanding of how the blockchain works and can write smart contracts.
 I am good at providing solutions using  technology and also effectively communicating my knowledge and experience to colleagues in the field.
-I'm from Nigeria and currently working at Transform Africa. 
+I am currently the co-founder of blokcxave and its software engineer. 
 You can get to me through favourejim56@gmail.com
 
 
