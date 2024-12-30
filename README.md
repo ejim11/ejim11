@@ -21,8 +21,12 @@ Skilled in full-stack development with Nest.js for backend services, and experie
 ![](https://img.shields.io/badge/ReactJs-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TailwindCss-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NextJs-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NestJs-informational?style=flat&logo=nest.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hardhat-informational?style=flat&logo=hardhat&logoColor=white&color=2bbc8a)
 
 
