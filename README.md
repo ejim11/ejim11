@@ -1,9 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/ejim11/ejim11/master/wave.gif" width="30px" height="30px" />
-I am a software engineer with very good frontend experience in building  interactive and maintainable web applications.
-In addition to building user interfaces, I have a good understanding of how the blockchain works and can write smart contracts.
-I am good at providing solutions using  technology and also effectively communicating my knowledge and experience to colleagues in the field.
-I am currently the co-founder of blokcxave and its software engineer. 
-You can get to me through favourejim56@gmail.com
+Seasoned software engineer with 4+ years of experience specializing in building interactive web and mobile applications. Proven expertise in developing responsive, user-centric solutions using modern JavaScript/TypeScript technologies, with a strong focus on React.js and Next.js for web development and Flutter for cross-platform mobile applications.
+Skilled in full-stack development with Nest.js for backend services, and experienced in blockchain development using Solidity for smart contracts. Consistently delivers high-performance applications with clean, maintainable code and optimal user experiences.
 
 
 
